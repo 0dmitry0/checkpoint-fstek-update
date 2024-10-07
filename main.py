@@ -8,7 +8,6 @@ smart_console_host = '192.168.1.111'
 smart_console_login = 'admin'
 smart_console_password = 'P@ssw0rd'
 ips_file = '/Users/dmitry/Desktop/ips.txt'
-layer = 'url_filtering'
 network_group = 'fstek'
 
 def main_api_func(function_flag, ip, name, ips_with_names):
